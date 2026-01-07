@@ -1,0 +1,214 @@
+{
+  "placeholderImages": [
+    {
+      "id": "hero-tooth",
+      "description": "Futuristic dental diagnostic screen with doctor.",
+      "imageUrl": "/images/hero-futuristic.jpg",
+      "imageHint": "futuristic dentist"
+    },
+    {
+      "id": "clinic-interior",
+      "description": "A modern, clean, and well-lit dental clinic operating room.",
+      "imageUrl": "/images/clinic-interior.png",
+      "imageHint": "dental clinic"
+    },
+    {
+      "id": "doctor-1",
+      "description": "Portrait of Dr. Evelyn Reed, a friendly and professional dentist.",
+      "imageUrl": "https://images.unsplash.com/photo-1559839734-2b71ea197ec2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHxmZW1hbGUlMjBkb2N0b3J8ZW58MHx8fHwxNzY3NjM3OTY4fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "female doctor"
+    },
+    {
+      "id": "doctor-2",
+      "description": "Portrait of Dr. Marcus Thorne, a confident and experienced orthodontist.",
+      "imageUrl": "https://images.unsplash.com/photo-1612349317150-e413f6a5b16d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHxtYWxlJ۲۰ZG9jdG9yfGVufDB8fHx8MTc2NzY3NzQxM3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "male doctor"
+    },
+    {
+      "id": "doctor-3",
+      "description": "Portrait of Dr. Aliyah Chen, a warm and caring pediatric dentist.",
+      "imageUrl": "https://images.unsplash.com/photo-1645066928295-2506defde470?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHxhc2lhbiUyMGRvY3RvcnxlbnwwfHx8fDE3Njc3MDU4MDl8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "asian doctor"
+    },
+    {
+      "id": "doctor-4",
+      "description": "Portrait of Dr. Samuel Jones, a skilled and precise endodontist.",
+      "imageUrl": "https://images.unsplash.com/photo-1514416205405-075ab2f15964?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8YmxhY2slMjBkb2N0b3J8ZW58MHx8fHwxNzY3NzA1ODA4fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "black doctor"
+    },
+    {
+      "id": "patient-1",
+      "description": "Avatar of patient Jane Doe.",
+      "imageUrl": "https://images.unsplash.com/photo-1711645169736-53327e726205?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHx3b21hbiUyMHNtaWxpbmd8ZW58MHx8fHwxNzY3NjI4NTI1fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "woman smiling"
+    },
+    {
+      "id": "patient-2",
+      "description": "Avatar of patient John Smith.",
+      "imageUrl": "https://images.unsplash.com/photo-1636377985931-898218afd306?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHxtYW4lMjBwb3J0cmFpdHxlbnwwfHx8fDE3Njc2ODE4NDJ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "man portrait"
+    },
+    {
+      "id": "patient-3",
+      "description": "Avatar of patient Emily White.",
+      "imageUrl": "https://images.unsplash.com/photo-1580489944761-15a19d654956?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxzbWlsaW5nJTIwcGVyc29ufGVufDB8fHx8MTc2NzYzNDgzN3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "smiling person"
+    },
+    {
+      "id": "whitening-before",
+      "description": "Teeth before whitening treatment.",
+      "imageUrl": "/images/whitening-before-new.jpg",
+      "imageHint": "yellow teeth"
+    },
+    {
+      "id": "whitening-after",
+      "description": "Teeth after whitening treatment.",
+      "imageUrl": "/images/whitening-after-new.jpg",
+      "imageHint": "white teeth"
+    },
+    {
+      "id": "implants-before",
+      "description": "Before dental implants.",
+      "imageUrl": "/images/implants-before-new.png",
+      "imageHint": "missing teeth"
+    },
+    {
+      "id": "implants-after",
+      "description": "After dental implants.",
+      "imageUrl": "/images/implants-after-new.png",
+      "imageHint": "perfect teeth"
+    },
+    {
+      "id": "ortho-before",
+      "description": "Before orthodontics.",
+      "imageUrl": "/images/ortho-before-new.png",
+      "imageHint": "crooked teeth"
+    },
+    {
+      "id": "ortho-after",
+      "description": "After orthodontics.",
+      "imageUrl": "/images/ortho-after-new.png",
+      "imageHint": "straight teeth"
+    },
+    {
+      "id": "general-before",
+      "description": "Routine dental checkup start.",
+      "imageUrl": "https://images.unsplash.com/photo-1571772996211-2f02c9727629?auto=format&fit=crop&q=80&w=1080",
+      "imageHint": "dental checkup"
+    },
+    {
+      "id": "general-after",
+      "description": "Clean polished teeth.",
+      "imageUrl": "https://images.unsplash.com/photo-1606811841689-23dfddce3e95?auto=format&fit=crop&q=80&w=1080",
+      "imageHint": "clean teeth"
+    },
+    {
+      "id": "pediatric-before",
+      "description": "Child getting dental exam.",
+      "imageUrl": "https://images.unsplash.com/photo-1588776814546-1ffcfef07a3c?auto=format&fit=crop&q=80&w=1080",
+      "imageHint": "kid dentist"
+    },
+    {
+      "id": "pediatric-after",
+      "description": "Happy child with healthy smile.",
+      "imageUrl": "https://images.unsplash.com/photo-1609139003551-ee404a3b706c?auto=format&fit=crop&q=80&w=1080",
+      "imageHint": "happy kid"
+    },
+    {
+      "id": "root-canal-before",
+      "description": "Dental X-ray showing issue.",
+      "imageUrl": "https://images.unsplash.com/photo-1598256989337-1296b31f4a56?auto=format&fit=crop&q=80&w=1080",
+      "imageHint": "dental xray"
+    },
+    {
+      "id": "root-canal-after",
+      "description": "Restored healthy tooth.",
+      "imageUrl": "https://images.unsplash.com/photo-1471286174890-9c112ffca5b4?auto=format&fit=crop&q=80&w=1080",
+      "imageHint": "healthy smile"
+    },
+    {
+      "id": "contact-map",
+      "description": "A map showing the location of the dental clinic.",
+      "imageUrl": "https://images.unsplash.com/photo-1446776899648-aa78eefe8ed0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHxjaXR5JTIwbWFwfGVufDB8fHx8MTc2NzYyMzM3NXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "city map"
+    },
+    {
+      "id": "dental-analysis-placeholder",
+      "description": "Placeholder image for dental analysis upload.",
+      "imageUrl": "https://images.unsplash.com/photo-1600170311833-c2cf5280ce49?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHxkZW50YWwlMjB4cmF5fGVufDB8fHx8MTc2NzY0MTM0M3ww&ixlibrb-4.1.0&q=80&w=1080",
+      "imageHint": "dental xray"
+    },
+    {
+      "id": "service-whitening",
+      "description": "Advanced laser whitening.",
+      "imageUrl": "/images/service-whitening.png",
+      "imageHint": "laser whitening"
+    },
+    {
+      "id": "service-implants",
+      "description": "Advanced dental implant render.",
+      "imageUrl": "/images/service-implants.png",
+      "imageHint": "titanium implant"
+    },
+    {
+      "id": "service-orthodontics",
+      "description": "Invisible aligners close up.",
+      "imageUrl": "/images/service-orthodontics.png",
+      "imageHint": "clear aligners"
+    },
+    {
+      "id": "service-general",
+      "description": "Futuristic dental room.",
+      "imageUrl": "/images/service-general.png",
+      "imageHint": "future dentist office"
+    },
+    {
+      "id": "service-pediatric",
+      "description": "Cartoon tooth in kids room.",
+      "imageUrl": "/images/service-pediatric-blue.png",
+      "imageHint": "cartoon tooth"
+    },
+    {
+      "id": "service-root-canal",
+      "description": "Microscopic root canal view.",
+      "imageUrl": "/images/service-root-canal.png",
+      "imageHint": "microscopic root canal"
+    },
+    {
+      "id": "service-whitening",
+      "description": "Bright white smile.",
+      "imageUrl": "/images/service-whitening.png",
+      "imageHint": "white smile"
+    },
+    {
+      "id": "service-implants",
+      "description": "Dental implant model.",
+      "imageUrl": "/images/service-implants.png",
+      "imageHint": "dental implant"
+    },
+    {
+      "id": "service-orthodontics",
+      "description": "Teeth with clear aligners.",
+      "imageUrl": "/images/service-orthodontics.png",
+      "imageHint": "orthodontics"
+    },
+    {
+      "id": "service-general",
+      "description": "Dentist examining patient.",
+      "imageUrl": "/images/service-general.png",
+      "imageHint": "dentist checking patient"
+    },
+    {
+      "id": "service-pediatric",
+      "description": "Happy child at dentist.",
+      "imageUrl": "/images/service-pediatric.png",
+      "imageHint": "child at dentist"
+    },
+    {
+      "id": "service-root-canal",
+      "description": "Tooth cross section.",
+      "imageUrl": "/images/service-root-canal.png",
+      "imageHint": "root canal"
+    }
+  ]
+}
